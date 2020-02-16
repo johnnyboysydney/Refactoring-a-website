@@ -1,48 +1,49 @@
+/* Setting the box size for the header */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Setting the background color */
 body {
     background-color: #d9dcd6;
 }
-
+/* Setting the attributes of the elements inside the header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Setting the h1 tag attributes */
 h1 {
     display: inline-block;
     font-size: 48px;
     color: #ffffff;
 }
-
+/* Setting the h2 tag attributes */
 h2 {
     font-size: 20px;
 }
-
+/* Setting the ul tag attributes removing the dots */
 ul {
     list-style-type: none;
 }
-
+/* Setting the li tag attributes */
 li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Setting the a tag attributes */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Setting the p tag attributes font size to 16px */
 p {
     font-size: 16px;
 }
-
+/* Setting the section attributes */
 section {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,7 +51,7 @@ section {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Setting the class team attributes */
 .team {
     height: 800px;
     width: 100%;
@@ -59,7 +60,7 @@ section {
     background-size: cover;
     background-position: center;
 }
-
+/* Setting the class content attributes */
 .content {
     margin-bottom: 20px;
     padding: 50px;
@@ -68,31 +69,32 @@ section {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-content {
+/* Setting the content attributes */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-content h2 {
+/* Setting the h2 attributes within content */
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-content img {
+/* Setting the img attributes within content*/
+main img {
     max-height: 200px;
 }
-
+/* We set the attributes of float left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* We set the attributes of float right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Setting the sidebar attributes */
 .sidebar {
     margin-right: 20px;
     padding: 20px;
@@ -103,27 +105,26 @@ content img {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Setting the h3 attributes inside the sidebar */
 .sidebar h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Setting the img attributes inside the sidebar */
 .sidebar img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Setting the attributes for elements inside the sidebar */
 .sidebarElement {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Setting the attributes for the footer */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    
 }
