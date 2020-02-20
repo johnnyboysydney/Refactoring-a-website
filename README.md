@@ -23,3 +23,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 -Checked and modifed the title to the appropiate webpage
+//18-02-2020//
+Added reset file as class task
