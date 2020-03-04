@@ -10,7 +10,10 @@ Added comments to sections and to elements in the HTML and in the CSS.
 
 ![image](https://user-images.githubusercontent.com/54227198/75836020-a7745f80-5e14-11ea-84c7-50276fc32776.png)
 
+
+---------------------------------------------------------------
 Acceptance Criteria:
+--------------------
 GIVEN a webpage meets accessibility standards 
 - Checked added ALT tag to the IMG.
 WHEN I view the source code
@@ -28,5 +31,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 -Checked and modifed the title to the appropiate webpage
-//18-02-2020//
-Added reset file as class task
+---------------------------------------------------------------
+-Added reset file as class task
+-Added screenshots
+-Reworded the README.md
+-Organized content of README.md
