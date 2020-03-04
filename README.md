@@ -1,4 +1,7 @@
-1st Assignment
+Refactoring a website
+
+![image](https://user-images.githubusercontent.com/54227198/75835909-4fd5f400-5e14-11ea-818e-7b9f2da0a2f0.png)
+
 
 I have cleaned up the HTML and the CSS.
 Reduced the number of coding in the CSS and used proper HTML naming.
