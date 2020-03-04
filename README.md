@@ -32,7 +32,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 -Checked and modifed the title to the appropiate webpage
 ---------------------------------------------------------------
--Added reset file as class task <hr>
--Added screenshots<hr>
--Reworded the README.md<hr>
--Organized content of README.md<hr>
+-Added reset file as class task </br>
+-Added screenshots</br>
+-Reworded the README.md</br>
+-Organized content of README.md</br>
