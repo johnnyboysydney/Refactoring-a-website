@@ -9,8 +9,8 @@ Ensured that the internal links are working.
 Added comments to sections and to elements in the HTML and in the CSS.
 
 ![image](https://user-images.githubusercontent.com/54227198/75836020-a7745f80-5e14-11ea-84c7-50276fc32776.png)
-
-
+---------------------------------------------------------------
+<a href="https://johnnyboysydney.github.io/Refactoring-a-website/">Refactoring a Website</a>
 ---------------------------------------------------------------
 Acceptance Criteria:
 --------------------
